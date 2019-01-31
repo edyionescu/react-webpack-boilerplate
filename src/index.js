@@ -1,3 +1,5 @@
-const greeting = name => `Hello ${name}`;
+import React from 'react';
+import { render } from 'react-dom';
+import App from './App';
 
-console.log(greeting('World'));
+render(<App />, document.getElementById('app'));
