@@ -1,0 +1,21 @@
+{
+  "name": "react-webpack-boilerplate",
+  "version": "0.1.0",
+  "description": "React Webpack Boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "boilerplate",
+    "starter",
+    "react",
+    "webpack",
+    "babel",
+    "jest",
+    "prettier",
+    "eslint"
+  ],
+  "author": "Edy Ionescu <errorsmith@gmail.com>",
+  "license": "ISC"
+}
