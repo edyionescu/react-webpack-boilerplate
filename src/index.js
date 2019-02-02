@@ -4,4 +4,9 @@ import '@babel/polyfill';
 import App from './App';
 import './index.css';
 
-render(<App />, document.getElementById('app'));
+render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+  document.getElementById('app')
+);
