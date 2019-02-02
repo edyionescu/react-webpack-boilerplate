@@ -8,7 +8,8 @@
     "dev": "webpack-dev-server --open --config webpack.config.development.js",
     "dev:hot": "npm run dev -- --hot",
     "test": "jest",
-    "format": "pretty-quick"
+    "format": "pretty-quick",
+    "lint": "eslint ./"
   },
   "keywords": [
     "boilerplate",
@@ -37,8 +38,11 @@
     "@babel/plugin-syntax-dynamic-import": "^7.2.0",
     "@babel/preset-env": "^7.3.1",
     "@babel/preset-react": "^7.0.0",
+    "babel-eslint": "^10.0.1",
     "babel-loader": "^8.0.5",
     "css-loader": "^2.1.0",
+    "eslint": "^5.13.0",
+    "eslint-plugin-react": "^7.12.4",
     "html-webpack-plugin": "^3.2.0",
     "jest": "^24.0.0",
     "jest-dom": "^3.0.1",
