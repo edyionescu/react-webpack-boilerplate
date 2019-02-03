@@ -22,7 +22,7 @@
     "eslint"
   ],
   "author": "Edy Ionescu <errorsmith@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/errorsmith/react-webpack-boilerplate.git"
