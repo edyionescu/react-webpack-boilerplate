@@ -7,4 +7,6 @@ class App extends React.Component {
   }
 }
 
-export default hot(App);
+const ExportedApp = module.hot ? hot(App) : App;
+
+export default ExportedApp;
