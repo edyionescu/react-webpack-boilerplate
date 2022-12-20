@@ -1,7 +1,6 @@
 # React Webpack boilerplate
 
 ![](https://img.shields.io/travis/errorsmith/react-webpack-boilerplate/master.svg?style=flat-square)
-![](https://img.shields.io/david/errorsmith/react-webpack-boilerplate.svg?style=flat-square)
 ![](https://img.shields.io/github/last-commit/errorsmith/react-webpack-boilerplate.svg?style=flat-square)
 
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
