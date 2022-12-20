@@ -10,10 +10,9 @@
 
 ## Features
 
-- React 16
-- Webpack 4
+- React 18
+- Webpack 5
 - Babel 7
-- Hot Module Replacement
 
 ## Install
 
@@ -21,5 +20,5 @@
 git clone --depth=1 git@github.com:errorsmith/react-webpack-boilerplate.git
 cd react-webpack-boilerplate
 npm install
-npm run dev:hot
+npm run dev
 ```
